@@ -1,5 +1,0 @@
-0325 18:00
-
-git status
-
-git diff aaa
